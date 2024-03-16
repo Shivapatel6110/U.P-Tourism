@@ -1,0 +1,189 @@
+* {
+    background-color: whitesmoke;
+    margin-top: 0px;
+    
+}
+.background {
+    height:830px;
+    width:1700px;
+    background-image: url("background.jpg.jpg");
+    background-size: cover;
+    color: cadetblue;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.about {
+    font-family:  sans-serif;
+
+}
+.about h5 {
+    background-color: whitesmoke;
+}
+h5 {
+    color:black;
+    height: 20px;
+    width: 100px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.up {
+    height: 670px;
+    width: 1693px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 15px;
+    margin-top: 15px;
+}
+  .menu {
+    height: 30px;
+    width: 1700px;
+    font-size: 20px;
+    background-color:grey; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0px;
+   
+ }
+ .menu a {
+    background-color:grey;
+ }
+ .border {
+    border:2px solid transparent;
+    background-color: grey;
+ }
+
+ .border:hover {
+    border: 2px solid black;
+ }
+.border i {
+    background-color: grey;
+}
+.fort {
+    height: 500px;
+    width:40%;
+    border: 2px solid black;
+    margin-top: 5px 5px 5px;
+    background-image: url("640px-Agra_Fort_Rempart.jpg");
+    background-size: cover;
+    font-size: 25px;
+    background-color: #dddddd;
+}
+h2 {
+    font-size: 25px;
+    color: black;
+    background-color: #dddddd;
+}
+.fort1 {
+    height: 500px;
+    width:30%;
+    border: 2px solid black;
+    margin: 5px 5px 5px;
+    background-image: url("taj-short.jpg");
+    background-size: cover;
+    color: orangered;
+    font-size: 15px;
+    padding-left: 450px;
+}
+
+.sum {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:5px 10px;
+    font-size: 0px;
+    margin-top: 4px;
+    background-color: #dddddd;
+}
+
+.photo-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.box {
+    border: 2px solid black;
+    height: 450px;
+    width: 30%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    display: flex;
+    background-size: cover;
+    margin-top: 5px;
+}
+
+
+.photo-section1 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    margin-bottom: 7px;
+}
+
+.end {
+     height: 40px;
+     width: 1700px;
+     background-color: #222f3d;
+     color: white;
+     font-size: 16px;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     margin-top: 1px;
+
+}
+
+
+.back {
+    font-size:20px;
+    background-color: #222f3d;
+    color: #dddddd;
+    
+}
+.back i {
+    size: 18px;
+    background-color: #222f3d;
+    color: #dddddd;
+}
+
+
+.Foot {
+    height:400px ;
+    width: 100%;
+    background-color: #222f3d;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+   }
+
+ul {
+    margin-top: 10px;
+    background-color: #222f3d;
+}
+
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+    background-color: #222f3d;
+}
+
+p {
+    background-color: #222f3d;
+    color: #dddddd;
+
+}
+
+.font-awesome i {
+    
+    background-color: #222f3d;
+    color: #dddddd;
+
+}
+
+  
